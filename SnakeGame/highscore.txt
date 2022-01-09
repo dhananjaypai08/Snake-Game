@@ -1,1 +1,2 @@
+# Sets the High score and erase this line before running the programming
 0
